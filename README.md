@@ -1,11 +1,8 @@
 ### Olá! Eu sou o Wanderson Almeida 👋
 
--🔭 Hoje trabalho com Back-end
-
--🌱 Estudando Javascrip
+-🌱 Estudante de Ciência da Computação/ Amante de {Python} & {Javascript}.
 
 -📫  Entre em contato comigo pelo email: wandersonalmeida.eng@gmail.com 
-
 
 <div align="center">
   <a href="https://github.com/almeidawanderson">
