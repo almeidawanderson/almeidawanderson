@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Wanderson Almeida 👋
 
+- Estagiário de Back-end Developer
+
 -🌱 Estudante de Ciência da Computação/ Amante de {Python} & {Javascript}.
 
 -📫  Entre em contato comigo pelo email: wandersonalmeida.eng@gmail.com 
